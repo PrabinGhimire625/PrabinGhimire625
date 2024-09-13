@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Prabin Ghimire</h1>
-<h3 align="center">Passionate about coding and breaking boundaries.</h3>
+<h3 align="center">Code for fun.</h3>
 <img align="right" alt="Coding" width="400" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR2IVPhccZVPoTEPsXBrYKetJZ3b0KQUDuI1g&s">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=prabinghimire625&label=Profile%20views&color=0e75b6&style=flat" alt="prabinghimire625" /> </p>
 
