@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **MERN stack**
 
-- 💬 Ask me about **javascript,react, express, redux toolkit**
+- 💬 Ask me about **javascript,react, express, redux toolkit, C#, Dotnet, Spring Boot**
 
 - 📫 How to reach me **prabinghimire625@gmail.com**
 
