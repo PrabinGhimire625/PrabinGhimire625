@@ -9,7 +9,14 @@
 
 - 📫 How to reach me **prabinghimire625@gmail.com**
 
-- 📄 Know about my experiences (Inter at Lunar IT Pvt.Ltd)
+- 📄 Know about my experiences
+💼 Intern (MERN Stack Developer) at Lunar IT Pvt. Ltd.
+
+👨‍💻 MERN Supervisor at CSDS
+
+🎓 Working Tutor at Itahari International College
+
+🚀 Built 5+ client projects using the MERN stack
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
